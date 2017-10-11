@@ -1,0 +1,4 @@
+<?php
+/**
+ * Local config
+ */
