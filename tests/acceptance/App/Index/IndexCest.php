@@ -23,7 +23,7 @@ class IndexCest
 
     public function tryIndexRouteWithParam(AcceptanceTester $I)
     {
-        $I->wantTo('Test the index route');
+        $I->wantTo('Test the index route with Param');
         $I->amOnPage('/?name=Unit');
         $I->see('Hello World Unit');
     }

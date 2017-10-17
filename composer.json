@@ -11,6 +11,7 @@
   ],
   "require"    : {
     "mbxsdk/kernel": "~0.1.0",
+    "mbxsdk/console": "~0.1.0",
     "mbxsdk/index" : "~0.1.0"
   },
   "require-dev": {
