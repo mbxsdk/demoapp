@@ -4,6 +4,11 @@ namespace App\Index;
 
 use AcceptanceTester;
 
+/**
+ * @group App
+ * @group Presentation
+ * @group Index
+ */
 class IndexCest
 {
     public function _before(AcceptanceTester $I)
