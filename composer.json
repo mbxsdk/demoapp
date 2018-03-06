@@ -15,7 +15,8 @@
     "mbxsdk/index" : "~0.1.0"
   },
   "require-dev": {
-    "codeception/codeception": "^2.3"
+    "codeception/codeception": "^2.3",
+    "heroku/heroku-buildpack-php": "*"
   },
   "autoload"   : {
     "psr-4": {
